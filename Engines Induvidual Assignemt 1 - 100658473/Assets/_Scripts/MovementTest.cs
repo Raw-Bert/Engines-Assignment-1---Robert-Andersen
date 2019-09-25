@@ -6,7 +6,6 @@ public class MovementTest : MonoBehaviour
 {
 
     public float speed;
-    Vector3 rot = new Vector3();
     // Start is called before the first frame update
     void Start()
     {
