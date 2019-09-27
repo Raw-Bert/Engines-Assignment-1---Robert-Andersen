@@ -1,9 +1,9 @@
 ﻿  SimpleClass.cpp
   Wrapper.cpp
-     Creating library C:\Users\rsand\source\repos\TestPlugin\x64\Release\TestPlugin.lib and object C:\Users\rsand\source\repos\TestPlugin\x64\Release\TestPlugin.exp
+     Creating library C:\Users\rsand\Documents\Repos\Engines-Assignment-1---Robert-Andersen\TestPlugin\x64\Release\TestPlugin.lib and object C:\Users\rsand\Documents\Repos\Engines-Assignment-1---Robert-Andersen\TestPlugin\x64\Release\TestPlugin.exp
   Generating code
   4 of 4 functions (100.0%) were compiled.
-    2 functions were new in current compilation
+    0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  TestPlugin.vcxproj -> C:\Users\rsand\source\repos\TestPlugin\x64\Release\TestPlugin.dll
+  TestPlugin.vcxproj -> C:\Users\rsand\Documents\Repos\Engines-Assignment-1---Robert-Andersen\TestPlugin\x64\Release\TestPlugin.dll
